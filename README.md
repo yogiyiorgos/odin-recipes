@@ -1,2 +1,2 @@
 # odin-recipes
-Basic recipe example
+Basic recipe website
